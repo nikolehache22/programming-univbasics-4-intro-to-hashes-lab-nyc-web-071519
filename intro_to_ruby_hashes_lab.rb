@@ -2,7 +2,6 @@ def new_hash
   new_hash = {}
 end
 
-my_hash {
 def my_hash
   my_hash = { 
     "frog" => 4.7

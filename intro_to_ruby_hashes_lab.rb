@@ -3,9 +3,8 @@ def new_hash
 end
 
 def my_hash
-  my_hash = { 
-    "frog" => 4.7
-  }
+  my_hash = 
+  {"frog" => 4.7}
   # return a valid hash with any key/value pair of your choice
 end
 
